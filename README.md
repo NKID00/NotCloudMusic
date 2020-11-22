@@ -21,7 +21,7 @@ $ git clone --recursive https://github.com/NKID00/NotCloudMusic.git
 
 $ cd NotCloudMusic
 
-$ pip install requests docopt
+$ pip install requests
 
 $ python notcm.py
 ```
