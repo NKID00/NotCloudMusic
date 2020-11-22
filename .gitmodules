@@ -1,0 +1,3 @@
+[submodule "NeteaseCloudMusicApiPy"]
+	path = NeteaseCloudMusicApiPy
+	url = https://github.com/NKID00/NeteaseCloudMusicApiPy
