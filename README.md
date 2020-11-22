@@ -10,21 +10,9 @@
 
 ## 特性
 
+- 插件管理系统
 
-
-## 使用
-
-下载并安装 [Python](https://python.org)
-   
-```shell
-$ git clone --recursive https://github.com/NKID00/NotCloudMusic.git
-
-$ cd NotCloudMusic
-
-$ pip install requests
-
-$ python notcm.py
-```
+- 仅支持 Python 3.5+
 
 ## 文档
 
@@ -32,7 +20,7 @@ $ python notcm.py
 
 ## 版权
 
-NotCloudMusic 使用 [MIT License](.\LICENSE) 进行许可
+NotCloudMusic 使用 [MIT License](./LICENSE) 进行许可
 
 版权所有 © 2020 NKID00
 

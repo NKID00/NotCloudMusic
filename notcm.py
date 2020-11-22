@@ -73,7 +73,7 @@ def main():
         try:
             commands[argv[1]]['callable'](api, argv)
         except ConnectionError or Timeout or HTTPError:
-            print('连接错误，请检查API进程是否启动且连接到互联网。')
+            print('网络连接错误，请检查API进程是否启动且连接到互联网。')
 
 
 if __name__ == "__main__":
