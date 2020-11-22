@@ -1,3 +1,6 @@
 [submodule "NeteaseCloudMusicApiPy"]
 	path = NeteaseCloudMusicApiPy
 	url = https://github.com/NKID00/NeteaseCloudMusicApiPy
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/NKID00/NotCloudMusic.wiki.git
